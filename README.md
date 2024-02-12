@@ -7,7 +7,23 @@
 
 - 💬 Tecnologias em foco **NODE.JS e PHP**
 
+  <br><br>
 
+<!--## Contact
+
+<p align="left" style="background:yellow">
+
+
+<a href="https://www.linkedin.com/in/marlon-paulo/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=linkedi" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/marlonpaulodasilva1" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p> -->
 
 
 
@@ -45,22 +61,6 @@
 <br><br>
 
 
-
-## Contact
-
-<p align="left" style="background:yellow">
-
-
-<a href="https://www.linkedin.com/in/marlon-paulo/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/marlonpaulodasilva1" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
 
 
 <!--
