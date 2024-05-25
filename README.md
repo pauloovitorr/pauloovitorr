@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloovitorra&color=1eccc9" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Backend
+- 🔥 Desenvolvedor de software
 
 - 💬 Tecnologias em foco **NODE.JS e PHP**
 
