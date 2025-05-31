@@ -5,7 +5,7 @@
 
 - 🔥 Desenvolvedor de software
 
-- 💬 Tecnologias em foco **NODE.JS e PHP**
+- 💬 Tecnologias em foco **HTML, CSS, JS, PYTHON e PHP**
 
   <br><br>
 
